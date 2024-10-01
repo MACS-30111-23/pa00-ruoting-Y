@@ -1,6 +1,15 @@
-# PA 00
+[# Ruoting (Carlos) Yang](https://github.com/MACS-30111-23/pa00-ruoting-Y/edit/main/README.md)
 
-For this assignment, you will submit TWO files -- the readme and the script file. 
+Hi guys, I am Carlos from Beijing, China. I graduate from NYU and I am really familiar with Manhattan, so please reach out to me for travel/food advise. My concentration is in *Media,Culture,Gender,and censorship*. I really like visiting art museums, **MOMA** is my favorite so far, but **the art institute** is even better! 
+
+Something about me:
+- A cat person
+- Lady Gaga fan
+- Love everyting citrus
+- Love weird fashion/architectural design
+- Miss my family everyday
+
+
 
 
 Edit this README file to include a brief biography of yourself. Your README should include the following elements:
